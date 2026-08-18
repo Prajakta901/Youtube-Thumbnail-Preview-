@@ -1,7 +1,7 @@
 # YouTube UI Clone – Flutter
 
 A pixel-inspired recreation of the YouTube mobile homepage, built with Flutter. 
-Users can upload a thumbnail image, add a title, description, and channel name, 
+Users can upload a thumbnail image,title, , and channel name, 
 then instantly preview how the video card would look in a real YouTube feed — 
 complete with a night-mode theme.
 
@@ -24,9 +24,5 @@ flutter run
 \`\`\`
 
 ## Screenshots
-_(add screenshots here)_
 
-## Roadmap
-- [ ] Firebase integration for persistent storage
-- [ ] Video playback screen
-- [ ] Search & filtering
+<img width="1915" height="1050" alt="screenshot-2026-08-18_14-35-02" src="https://github.com/user-attachments/assets/8a8f7906-cc28-4f46-be46-d54481c2d060" />
