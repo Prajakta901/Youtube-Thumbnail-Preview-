@@ -1,16 +1,32 @@
-# thumb
+# YouTube UI Clone – Flutter
 
-A new Flutter project.
+A pixel-inspired recreation of the YouTube mobile homepage, built with Flutter. 
+Users can upload a thumbnail image, add a title, description, and channel name, 
+then instantly preview how the video card would look in a real YouTube feed — 
+complete with a night-mode theme.
+
+## Features
+- 🎬 YouTube-style home feed with category chips and video cards
+- 📤 Create/upload screen with image picker (works on Web, Android & iOS)
+- 👁️ Live thumbnail preview as you type
+- 🌙 Full dark mode UI matching YouTube's native night theme
+- 📱 Cross-platform: Android, iOS, and Web (Chrome-tested)
+
+## Tech Stack
+- Flutter & Dart
+- `image_picker` for cross-platform image selection
+- Material 3 design system
 
 ## Getting Started
+\`\`\`bash
+flutter pub get
+flutter run
+\`\`\`
 
-This project is a starting point for a Flutter application.
+## Screenshots
+_(add screenshots here)_
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Roadmap
+- [ ] Firebase integration for persistent storage
+- [ ] Video playback screen
+- [ ] Search & filtering
